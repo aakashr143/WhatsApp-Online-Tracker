@@ -14,10 +14,12 @@ Set Up
 3. You might have to change the path of the chromium and also the beep.mp3 (see before you run it)
 4. For mac user, if you are getting an error with the playing of sound, install "PyObjC"
 
+
 General Information
 1. For the program to gather information the chrome window should be open, if the window closes the program will crash. In addition to that your phone should also be connected to the internet, for the whatsapp web to work
 2. The sound will only play once for a online session
 3. The time is the total time the user was online without going offine
+
 
 Limitation
 1. Can only track one user at a time
