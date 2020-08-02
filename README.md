@@ -12,7 +12,8 @@ Set Up
 3. To see if the person is online or not, the data will be outputed at the console. The online check will take place every 1sec, this value can also be changed from inside of the code
 
 General Information
-The function sendMessage doesnt do anyting yet, you can remove it if you want
+1. The function sendMessage doesnt do anyting yet, you can remove it if you want
+2. For the program to gather information the chrome window should be open, if the window closes the program will crash. In addition to that your phone should also be connected to the internet, for the whatsapp web to work
 
 
 DON'T USE THIS TO STALK PEOPLE
