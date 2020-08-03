@@ -6,6 +6,7 @@ Libaries used
 2. datetime
 3. time
 4. playsound
+5. tkinter
 
 Set Up
 1. The user will have 10sec to scan the QR code, the time can be changed in the code
@@ -20,6 +21,7 @@ General Information
 2. The sound will only play once for a online session
 3. The time is the total time the user was online without going offine
 4. It has a CPU usage of around 5% with peaks of 10% on 2.6GHz, i5
+5. It is possible to use the code without tkinter, just deleter all the lines with the tkinter code
 
 
 Limitation
