@@ -8,6 +8,7 @@ Libaries used
 4. playsound
 5. tkinter (can be used without this)
 
+
 Set Up
 1. The user will have 10sec to scan the QR code, the time can be changed in the code
 2. In the variable "username" enter the name of the person you want to track, make sure the name is the same as you will find it your chats
