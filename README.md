@@ -21,14 +21,12 @@ General Information
 1. For the program to gather information the chrome window should be open, if the window closes the program will crash. In addition to that your phone should also be connected to the internet, for the whatsapp web to work
 2. The sound will only play once for a online session
 3. The time is the total time the user was online without going offine
-4. It has a CPU usage of around 5% with peaks of 10% on 2.6GHz, i5
-5. It is possible to use the code without tkinter, just deleter all the lines with the tkinter code
-6. The tkinter only shows the start time of the online session and the duration of the online session
+4. It is possible to use the code without tkinter, just deleter all the lines with the tkinter code. The tkinter only shows the start time of the online session and the duration of the online session
 
 
 Limitation
 1. Can only track one user at a time
 2. Need to keep the IDE and chrome window open for it work
-3. Has only been tested on MacOS and chrome
+3. Has only been tested on MacOS with chrome
 4. The user has to be in the first 4 slots of recent chats (best if you can pin the user on top)
 
