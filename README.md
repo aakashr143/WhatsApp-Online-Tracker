@@ -28,5 +28,5 @@ Limitation
 1. Can only track one user at a time
 2. Need to keep the IDE and chrome window open for it work
 3. Has only been tested on MacOS with chrome
-4. The user has to be in the first 4 slots of recent chats (best if you can pin the user on top)
+4. The user has to be in the first 10 slots of recent chats (best if you can pin the user on top)
 
